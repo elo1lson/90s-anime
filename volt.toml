@@ -1,0 +1,10 @@
+name = "90s-anime"
+version = "0.1.0"
+display-name = "90s Anime"
+author = "elo1lson"
+description = "A tasteful but still practical colorful theme for Lapce. Great for purple color lovers <3."
+icon = "assets/icon.png"
+repository = "https://github.com/elo1lson/90s-anime"
+color-themes = [
+    "90s-anime.toml",
+]
